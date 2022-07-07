@@ -1,0 +1,14 @@
+div{
+    border: 200px;
+}
+form{
+    background-color: #fcffc4;
+    border: 500px;
+}
+.p1{
+    width: 50%;
+    float: left;
+}
+.p2{
+    width: 50%;
+}
